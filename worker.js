@@ -4,7 +4,7 @@
 //  • POST /api/hb-session → proxies to Hyperbeam API
 // ════════════════════════════════════════════════════════
 
-const HB_API_KEY = 'sk_live_h57nEf93Qzifz7n2vB9PFBXjnfVS605QBImkZOibz-U';
+const HB_API_KEY = 'sk_test_sJTS3MT3ltGA2Z-LCbKnEra9izw6IXAkRXbZHjfhGv0';
 
 const CORS_HEADERS = {
   'Access-Control-Allow-Origin': '*',
